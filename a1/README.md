@@ -21,14 +21,13 @@ Four Parts:
 
 Screenshots:
 
-1. ![JavaScreenshot](a1/helloWorldSS.png)
+1.[JavaScreenshot](a1/helloWorldSS.png)
         
       
-2. ![MyFirstApp](a1/helloMeSS.png)
+2.[MyFirstApp](a1/helloMeSS.png)
         
 
-
-3.   ![ContactsApp](a1/contactsAppSS.png)
+3.[ContactsApp](a1/contactsAppSS.png)
                 ![ContactsApp2](a1/contactsAppSS2.png)
         
            
