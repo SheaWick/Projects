@@ -6,8 +6,11 @@
 
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-- Install something
-- Install something
+    - Install JDK
+    - Provide screenshots of installations
+    - Create bitbucket repo
+    - Complete bitbucket tutorials
+    - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 

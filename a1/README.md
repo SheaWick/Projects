@@ -1,29 +1,38 @@
-#LIS4331
+#LIS4331 Adv Web App Development
 
 ##Shea Wickenden
 
 ###A1 Reqs:
 
-1. screenshot java hello
-2. screenshot my first app
-3. screenshots contacts app
-4. git commands
-5. butbucket
+Four Parts:
+
+    1. Distributed Version Control with Git and Bitbucket
+    2. Development installations
+    3. Chapter Questiond (1 and 2)
+    4. Bitbucket repo links: a) this assignment and b) completed tutorials
+    
+    README.md should include:
+        -Screenshot of running java Hello
+        -Screenshot of running Android Studio My First App
+        -Screenshots of Contacts App
+        -git commands w/short descriptions
+        
+    
+
+Screenshots:
+
+        1. /Users/sheawickenden/Desktop/helloWorldSS.png
 
 
-
-1. /Users/sheawickenden/Desktop/helloWorldSS.png
-
-
-2. /Users/sheawickenden/Desktop/helloMeSS.png
+        2. /Users/sheawickenden/Desktop/helloMeSS.png
 
 
-3. /Users/sheawickenden/Desktop/contactsAppSS.png
-   /Users/sheawickenden/Desktop/contactsAppSS2.png
+        3. /Users/sheawickenden/Desktop/contactsAppSS.png
+            /Users/sheawickenden/Desktop/contactsAppSS2.png
    
+Commands:
    
-   
-   4. git init- create new local repo
+    4. git init- create new local repo
         git status- list the fiiles youve changed and need to commit
         git add - add file(s)
         git commit - commit changes
@@ -31,8 +40,8 @@
         git pull - pulls changes
         git merge -merge a different branch into active archive
         
-        
-        5. https://bitbucket.org/scw13g/lis4331/src/master/README.md
-        https://bitbucket.org/scw13g/bitbucketstationlocations/src/master/
+Links:
+            5.  https://bitbucket.org/scw13g/lis4331/src/master/README.md
+                 https://bitbucket.org/scw13g/bitbucketstationlocations/src/master/
         
 
