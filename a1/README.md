@@ -21,15 +21,15 @@ Four Parts:
 
 Screenshots:
 
-        1. ![JavaScreenshot](img/Users/sheawickenden/Desktop/helloWorldSS.png)
+1. ![JavaScreenshot](/Users/sheawickenden/Desktop/helloWorldSS.png)
         
       
-        2. ![MyFirstApp](img/Users/sheawickenden/Desktop/helloMeSS.png)
+2. ![MyFirstApp](/Users/sheawickenden/Desktop/helloMeSS.png)
         
 
 
-        3.   ![ContactsApp](img/Users/sheawickenden/Desktop/contactsAppSS.png)
-                ![ContactsApp2](img/Users/sheawickenden/Desktop/contactsAppSS2.png)
+3.   ![ContactsApp](/Users/sheawickenden/Desktop/contactsAppSS.png)
+                ![ContactsApp2](/Users/sheawickenden/Desktop/contactsAppSS2.png)
         
            
 Commands:
