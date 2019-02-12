@@ -2,7 +2,7 @@
 
 ##Shea Wickenden
 
-###A1 Reqs:
+###LIS4331 Reqs:
 
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
@@ -13,13 +13,10 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Screenshot of running app's unpopulated user interface
+    - Screenshot of running app's populated user interface
+    - Provide bitbucket repo link
 
 
-
-
-
-
-
-1.   [A1 README.md]   (/Users/sheawickenden/repos/lis4331/a1/README.md)
-
-                -
+3.  [A1 README.md]
+                
