@@ -19,7 +19,12 @@
 
 
 3.  [A1 README.md](a3/README.md "My A3 README.md file")
-    -Screenshotofrunning application’s unpopulateduser interface;
-    -Screenshotofrunning application’s toast notification;
-    -Screenshotofrunning application’sconverted currencyuser interface;
+    - Screenshot of running application’s unpopulateduser interface;
+    - Screenshot of running application’s toast notification;
+    - Screenshot of running application’sconverted currencyuser interface;
+    
+4. [P1 README.md] (p1/README.md "My P1 README.md file")
+    - screenshot of splash screen
+    - screenshot of follow-up screen
+    - screenshots of the pause/play interfaces
                 
