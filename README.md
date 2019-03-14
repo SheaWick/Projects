@@ -23,7 +23,7 @@
     - Screenshot of running application’s toast notification;
     - Screenshot of running application’sconverted currencyuser interface;
     
-4. [P1 README.md] (p1/README.md "My P1 README.md file")
+4. [P1 README.md](p1/README.md "My P1 README.md file")
     - screenshot of splash screen
     - screenshot of follow-up screen
     - screenshots of the pause/play interfaces
