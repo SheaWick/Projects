@@ -18,5 +18,8 @@
     - Provide bitbucket repo link
 
 
-3.  [A1 README.md]
+3.  [A1 README.md](a3/README.md "My A3 README.md file")
+    -Screenshotofrunning application’s unpopulateduser interface;
+    -Screenshotofrunning application’s toast notification;
+    -Screenshotofrunning application’sconverted currencyuser interface;
                 
