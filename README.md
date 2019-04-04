@@ -27,4 +27,11 @@
     - screenshot of splash screen
     - screenshot of follow-up screen
     - screenshots of the pause/play interfaces
+    
+    5. [A4 README.md](a4/README.md "My A4 README.md file")
+    - screenshot of running app's splash screen
+    - screenshot of running app's invalid screen
+    - screenshot of running app's valid screen
+    
+
                 
